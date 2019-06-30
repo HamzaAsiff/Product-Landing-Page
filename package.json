@@ -1,0 +1,16 @@
+{
+  "name": "product-landing-page-project",
+  "version": "1.0.0",
+  "description": "Product Landing page",
+  "main": "index.js",
+  "homepage": "https://HamzaAsiff.github.io/Product-Landing-Page.io",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Hamza Asif",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
